@@ -1,3 +1,5 @@
+ReadMe in Turkish
+
 1- Gstreamer Kurulum
 
 Gstreamer Windows binary sitesinden 64 bit için
